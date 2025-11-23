@@ -1,4 +1,4 @@
-# 🤖 DocuSphere: RAG Chatbot with Gemini AI & History
+# DocuSphere: RAG Chatbot with Gemini AI & History
 
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
@@ -91,3 +91,4 @@ The new "History" tab will allow users to:
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for features, or find a bug, please feel free to submit an issue or open a pull request.
+
