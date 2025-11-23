@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+*.pkl
+*.db
+*.sqlite3
+vectors.index
+env/
+venv/
+.env
+.vscode/
+__MACOSX/
+
+# Logs
+*.log
+
+# Python egg
+*.egg-info/
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Distribution / packaging
+dist/
+build/
+egg-dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore test output
+coverage.xml
+htmlcov/
