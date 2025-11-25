@@ -6,7 +6,7 @@ import pickle
 import os
 
 # Set your Google API key
-genai.configure(api_key="AIzaSyCDCkbJyJsDK20K3kKcclVjwjVMiBZRqAc")
+genai.configure(api_key="ypur_api_Key")
 
 # Initialize the embedding model (same as used in pdf-vector.py)
 print("[INIT] Loading embedding model...")
